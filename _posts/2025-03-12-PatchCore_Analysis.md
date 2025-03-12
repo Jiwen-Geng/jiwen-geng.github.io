@@ -1,6 +1,8 @@
 ---
 title: PatchCore 算法分析
-date: 2025-03-12 23:11:11
+date: 2025-03-12 23:11:11 +0800
+categories: [Animal, Insect]
+tags: [bee]
 math: true
 ---
 
