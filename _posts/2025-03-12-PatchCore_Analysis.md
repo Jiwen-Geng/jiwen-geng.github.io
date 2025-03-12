@@ -1,8 +1,8 @@
 ---
-title: PatchCore Analysis
+title: PatchCore 算法分析
 date: 2025-03-12 23:11:11 +0800
-categories: [Animal, Insect]
-tags: [bee]
+categories: [CV, 缺陷检测]
+tags: [无监督缺陷检测]
 math: true
 ---
 
