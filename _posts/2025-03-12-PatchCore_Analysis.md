@@ -1,3 +1,11 @@
+---
+title: PatchCore 算法分析
+date: 2025-03-12 23:11:11
+categories: [深度学习, 缺陷检测]
+tags: [defects detection]     # TAG names should always be lowercase
+math: true
+---
+
 # Patchcore Algorithm Analysis
 
 参考论文：[Toward Total Recall in Industrial Anomaly Detection](https://arxiv.org/abs/2106.08265)
