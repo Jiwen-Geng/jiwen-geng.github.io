@@ -76,6 +76,6 @@ $$
 
 
 ## Reference
-[1]: Agarwal, Pankaj K., Sariel Har-Peled and Kasturi R. Varadarajan. “Geometric Approximation via Coresets.” (2007).
+[1] Agarwal, Pankaj K., Sariel Har-Peled and Kasturi R. Varadarajan. “Geometric Approximation via Coresets.” (2007).
 
-[2]: Ozan Sener and Silvio Savarese. Active learning for convolutional neural networks: A core-set approach. In International Conference on Learning Representations, 2018. 2, 4
+[2] Ozan Sener and Silvio Savarese. Active learning for convolutional neural networks: A core-set approach. In International Conference on Learning Representations, 2018. 2, 4
