@@ -31,8 +31,10 @@ github:
 twitter:
   username:  # change to your Twitter username
 
-kramdown:        #禁用原生公式
-  math_engine: null
+# kramdown:        #禁用原生公式
+#   math_engine: null
+
+markdown: kramdown
 
 
 social:
